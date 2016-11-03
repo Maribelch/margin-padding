@@ -1,0 +1,20 @@
+a{
+    border: 5px solid #000000;
+    width:500px;
+    padding: 10px;
+    font-style:italic;
+    font-weight:900;
+    font-size:90px;
+    margin:90px;
+    margin-top: 50px;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 100%;
+}
+body{
+    background-image:url(img/hallowen.jpg);
+    background-repeat:no-repeat;
+    background-size:1699px;
+    
+}
